@@ -1,7 +1,7 @@
 # Grade4_Math_Multilevel_Analysis_TIMMS2023
 Identifying Key Predictors of U.S. Grade 4 Math Achievement (TIMMS  2023) 
 
-This project examines how student- and school-level factors , including digital access, influence Grade 4 mathematics achievement in the U.S., integrating multiple datasets and applying advanced data science methods.
+This project examines how student- and school-level factors, including digital access, influence U.S. Grade 4 mathematics achievement by integrating multiple datasets and applying advanced data science methods.
 
 ## Research Purpose
 - **RQ1:** Which student-level factors (technology access, engagement, home resources/SES, school climate) are most predictive of math achievement using Random Forest under school-grouped validation?
