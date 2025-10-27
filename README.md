@@ -1,6 +1,6 @@
-# grade4_math_multilevel_analysis_TIMSS2023
+# Grade4_Math_Multilevel_Analysis_TIMMS2023
+Identifying Key Predictors of U.S. Grade 4 Math Achievement (TIMMS  2023) 
 
-### Identifying Key Predictors of U.S. Grade 4 Math Achievement (TIMSS 2023)
 This project examines how student- and school-level factors influence Grade 4 mathematics achievement in the U.S., integrating multiple datasets and applying advanced data science methods.
 
 ## Research Purpose
